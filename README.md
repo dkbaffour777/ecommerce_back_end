@@ -5,6 +5,7 @@
 
   A back end for an e-commerce website that uses the latest technologies
   such as Node.js, Express.js, MySQL2 and Sequelize Object Relational Mapper(ORM).
+  Insomnia core was used for testing the API routes for this backend application
 
 !['app'](assets/images/app.PNG) 
   
